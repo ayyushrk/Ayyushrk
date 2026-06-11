@@ -1,24 +1,31 @@
-![Alt text](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
-<h1 align="center">Hi 👋, I'm Ayush R Kumar</h1>
-<h3 align="center">Passionate in Python and mySQL</h3>
+# 💫 About Me:
+🌱 I'm currently working on, An AI-powered Expense Tracker web app using Python, Flask and Gemini API.<br>👯 I'm looking to collaborate on, Open source projects, AI tools, web applications and UI/UX design projects.<br>🤝 I'm looking for help with, Full stack development, machine learning integration and deployment.<br>🌱 I'm currently learning, Flask, REST APIs, Google Gemini AI integration and advanced JavaScript.<br>💬 Ask me about, Python, UI/UX Design, Figma, Web Development, Open Source Contributing.<br>⚡ Fun fact, I can speak 4 languages and code in 4 programming languages — coincidence? I think not! 😄.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2006385&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2006385" /> </p>
 
-- 🔭 I’m currently working on [Finance Management](https://github.com/Ayush2006385/banking)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ayushrkumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-r-kumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KumarR2123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushrkumar2006@gmail.com) 
 
-- 🌱 I’m currently learning **Python,Java**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ayyushrk&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ayyushrk&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayyushrk&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **ayushrkumar2006@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayyushrk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10P1kKUGtJ4mYccjv4eKlFBl7AqgkxqsI/view?usp=sharing](https://drive.google.com/file/d/10P1kKUGtJ4mYccjv4eKlFBl7AqgkxqsI/view?usp=sharing)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-r-kumar-055478329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-r-kumar-055478329" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayushrkumar2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushrkumar2006" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushkumar_1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushkumar_1511" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ayyushrk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+[![](https://komarev.com/ghpvc/?username=ayyushrk&icon=3&color=12)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ayushrkumar) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
