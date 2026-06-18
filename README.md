@@ -1,23 +1,73 @@
-![Alt text](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
-<h1 align="center">Hi 👋, I'm Ayush R Kumar</h1>
-<h3 align="center">Passionate in Python and mySQL</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2006385&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2006385" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hi%20there,%20I'm%20Ayush%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-- 🔭 I’m currently working on [Finance Management](https://github.com/Ayush2006385/banking)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=S5+CSE+%40+NSS+College+of+Engineering%2C+Palakkad;Design+Lead+%40+NSSCE+%7C+Joint+Secretary+%40+STACS;Full+Stack+Dev+%E2%80%94+React%2C+Node%2C+Figma;Git+%26+GitHub+Workshop+Host;Football+%2B+Code+%3D+Same+Energy+%E2%9A%BD" />
 
-- 🌱 I’m currently learning **Python,Java**
+</div>
 
-- 📫 How to reach me **ayushrkumar2006@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10P1kKUGtJ4mYccjv4eKlFBl7AqgkxqsI/view?usp=sharing](https://drive.google.com/file/d/10P1kKUGtJ4mYccjv4eKlFBl7AqgkxqsI/view?usp=sharing)
+### 🧩 about me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-r-kumar-055478329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-r-kumar-055478329" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayushrkumar2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushrkumar2006" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushkumar_1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushkumar_1511" height="30" width="40" /></a>
-</p>
+I move between code and design without really switching gears — React in one tab, Figma in the next. Currently **Design Lead** at NSSCE and **Joint Secretary** at STACS, and lately spending evenings teaching juniors that `git rebase` isn't actually trying to ruin their lives.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+I came up through µLearn's **µFIFA** program — real tasks instead of tutorials, public track record instead of certificates. Outside of that, I'm the kind of person who debugs at 2 AM and still shows up for a 6 AM football match. There's no separating the two.
+
+---
+
+### 🛠️ tech stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,figma,git,github,javascript,html,css&theme=dark" />
+</div>
+
+---
+
+### 📊 github stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayyushrk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyushrk&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushrk&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</div>
+
+---
+
+### 🏆 trophy case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayyushrk&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### ⚡ currently
+
+- 🎯 Building player cards and validators for **µFIFA 2026**
+- 🐙 Running a 3-day virtual **Git & GitHub workshop** for beginners
+- 🧠 Chipping away at [LeetCode](https://leetcode.com/u/AyushRkumar) — one problem a day, streak status: *ambitious*
+- ⚽ Arguing that football tactics and clean commit history require the exact same discipline
+
+---
+
+### 📫 reach me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.link)
+
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ayyushrk&style=flat-square&color=2C5364" />
+</div>
+
+<div align="center">
+<sub>if it works, don't touch it. if it doesn't, blame the merge conflict.</sub>
+</div>
