@@ -61,7 +61,7 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 <img src="https://raw.githubusercontent.com/ayyushrk/ayyushrk/output/github-contribution-grid-snake.svg" />
 </div>
 
-<p align="center"><sub>this one's genuinely rare — your commit graph turns into a snake that eats its own squares. setup steps are below.</sub></p>
+
 
 ---
 
