@@ -1,0 +1,82 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050a08"/>
+      <stop offset="50%" stop-color="#06120c"/>
+      <stop offset="100%" stop-color="#020403"/>
+    </linearGradient>
+    <linearGradient id="titleGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffd5"/>
+      <stop offset="50%" stop-color="#39ff14"/>
+      <stop offset="100%" stop-color="#00ff9c"/>
+    </linearGradient>
+    <filter id="glow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="900" height="220" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip3)">
+    <rect x="0" y="0" width="900" height="220" fill="url(#bgGrad3)"/>
+    <rect x="1.5" y="1.5" width="897" height="217" rx="13" fill="none" stroke="#1d3a2c" stroke-width="1.5"/>
+
+    <!-- matrix rain background -->
+    <g font-family="'JetBrains Mono', monospace" font-size="13" fill="#0f5132" opacity="0.45">
+      <text x="50" y="0"><animate attributeName="y" values="-20;260" dur="3.6s" repeatCount="indefinite"/>commit</text>
+      <text x="140" y="0"><animate attributeName="y" values="40;300" dur="4.2s" repeatCount="indefinite"/>01101</text>
+      <text x="230" y="0"><animate attributeName="y" values="-50;280" dur="3.1s" repeatCount="indefinite"/>push</text>
+      <text x="650" y="0"><animate attributeName="y" values="10;290" dur="3.9s" repeatCount="indefinite"/>10110</text>
+      <text x="740" y="0"><animate attributeName="y" values="-30;270" dur="3.4s" repeatCount="indefinite"/>merge</text>
+      <text x="820" y="0"><animate attributeName="y" values="30;310" dur="4.5s" repeatCount="indefinite"/>EOF</text>
+    </g>
+
+    <!-- glitch sign-off text -->
+    <g filter="url(#glow3)" text-anchor="middle">
+      <text x="450" y="90" font-family="'JetBrains Mono', monospace" font-size="38" font-weight="700" fill="url(#titleGrad3)">
+        thanks for scrolling this far
+        <animate attributeName="opacity" values="1;1;0.85;1;1;0.9;1" dur="2.8s" repeatCount="indefinite"/>
+      </text>
+      <text x="452" y="90" font-family="'JetBrains Mono', monospace" font-size="38" font-weight="700" fill="#ff2bd6" opacity="0">
+        thanks for scrolling this far
+        <animate attributeName="opacity" values="0;0;0.4;0;0;0;0" dur="2.1s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <g font-family="'JetBrains Mono', monospace" font-size="17" fill="#9be8c4" text-anchor="middle">
+      <text x="450" y="130">
+        star the repo if you liked the chaos
+      </text>
+    </g>
+
+    <!-- terminal prompt sign-off -->
+    <g font-family="'JetBrains Mono', monospace" font-size="18" text-anchor="middle">
+      <text x="370" y="172" fill="#39ff14">$</text>
+      <text x="450" y="172" fill="#d6ffe9">
+        exit --status=
+        <tspan fill="#39ff14">always_building</tspan>
+      </text>
+    </g>
+
+    <rect x="690" y="161" width="10" height="16" fill="#39ff14">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- decorative corner circuits -->
+    <g stroke="#1d5c3f" stroke-width="1.4" fill="none" opacity="0.7">
+      <path d="M 30 30 L 30 50 L 50 50"/>
+      <path d="M 870 30 L 870 50 L 850 50"/>
+      <path d="M 30 190 L 30 170 L 50 170"/>
+      <path d="M 870 190 L 870 170 L 850 170"/>
+      <circle cx="50" cy="50" r="2.5" fill="#39ff14"/>
+      <circle cx="850" cy="50" r="2.5" fill="#39ff14"/>
+      <circle cx="50" cy="170" r="2.5" fill="#39ff14"/>
+      <circle cx="850" cy="170" r="2.5" fill="#39ff14"/>
+    </g>
+  </g>
+</svg>
