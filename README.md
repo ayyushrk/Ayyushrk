@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hi%20there,%20I'm%20Ayush%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<!-- High-Tech Header -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:203a43&height=220&section=header&text=Hello%20World!%20I'm%20Ayush&fontSize=45&fontColor=39FF14&animation=fadeIn&desc=Building%20digital%20experiences%20%7C%20React%20%2B%20Node%20%2B%20Design&descSize=20&descAlignY=65" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=S5+CSE+%40+NSS+College+of+Engineering%2C+Palakkad;Design+Lead+%40+NSSCE+%7C+Joint+Secretary+%40+STACS;Full+Stack+Dev+%E2%80%94+React%2C+Node%2C+Figma;Git+%26+GitHub+Workshop+Host;Football+%2B+Code+%3D+Same+Energy+%E2%9A%BD" />
+<!-- Typing Sub-header -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=650&lines=S5+CSE+%40+NSS+College+of+Engineering;Design+Lead+%40+NSSCE+%7C+Joint+Secretary+%40+STACS;Full+Stack+Dev+%E2%80%94+React%2C+Node%2C+Figma;Football+%2B+Code+%3D+Same+Energy+%E2%9A%BD" />
 
 </div>
 
