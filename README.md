@@ -29,6 +29,7 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushrk&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
+---
 
 ![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/divider.svg)
 
