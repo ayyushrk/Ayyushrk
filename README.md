@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/.github/workflows/hero.svg)
+![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/hero.svg)
 
 ---
 
