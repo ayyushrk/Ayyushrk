@@ -1,4 +1,4 @@
-![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/hero.svg)
+(https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/hero.svg)
 
 ---
 
@@ -7,14 +7,6 @@
 I move between code and design without really switching gears — React in one tab, Figma in the next. Currently **Design Lead** at NSSCE and **Joint Secretary** at STACS, and lately spending evenings teaching juniors that `git rebase` isn't actually trying to ruin their lives.
 
 I came up through µLearn's **µFIFA** program — real tasks instead of tutorials, public track record instead of certificates. Outside of that, I'm the kind of person who debugs at 2 AM and still shows up for a 6 AM football match. There's no separating the two.
-
----
-
-### 💻 what my terminal looks like
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=39FF14&background=0D1117FF&center=true&vCenter=true&width=600&height=140&lines=%24+git+commit+-m+%22fix%3A+actually+fix+it+this+time%22;%24+git+push+origin+main;Resolving+deltas%3A+100%25+(47%2F47)%2C+done.;%24+npm+run+dev;%E2%9C%93+ready+in+312ms" />
-</div>
 
 ---
 
