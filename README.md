@@ -1,34 +1,19 @@
-<div align="center">
-
-<!-- Improved, Theme-matched Hero Image -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F2027,100:2C5364&height=250&section=header&text=Hello%20World!%20I'm%20Ayush&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=React%20in%20one%20tab,%20Figma%20in%20the%20next.%20Design%20%2B%20Code.&descSize=20&descAlignY=65" />
-
-<!-- Status Badges for instant scanability -->
-<p align="center">
-  <img src="https://img.shields.io/badge/FullStack_Dev-blue?style=for-the-badge&logo=react&logoColor=61DAFB" alt="FullStack Developer" />
-  <img src="https://img.shields.io/badge/Design_Lead-red?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Design Lead" />
-  <img src="https://img.shields.io/badge/OpenSource_Contributor-black?style=for-the-badge&logo=github&logoColor=white" alt="OpenSource Contributor" />
-</p>
-
-<!-- Terminal Typing Effect (Customized) -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&width=600&lines=Welcome%20to%20my%20GitSpace;%24%20cd%20projects;%24%20npm%20run%20dev;%24%20git%20status%20--short" />
-
-</div>
+![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/hero.svg)
 
 ---
 
 ### 🧩 about me
 
-I live at the intersection of logical engineering and creative design. I don't just write code; I architect experiences. Currently leveraging **React** and **Node.js** as a Full Stack Developer, while also leading the creative vision as a **Design Lead** at NSSCE. 
+I move between code and design without really switching gears — React in one tab, Figma in the next. Currently **Design Lead** at NSSCE and **Joint Secretary** at STACS, and lately spending evenings teaching juniors that `git rebase` isn't actually trying to ruin their lives.
 
-Lately, I’ve been teaching juniors that `git rebase` is actually a force for good. I’m an alumnus of µLearn's **µFIFA** program, where real-world tasks replace tutorials. If I’m not debugging at 2 AM, I’m probably on a football pitch analyzing tactics at 6 AM. There's no separating the two.
+I came up through µLearn's **µFIFA** program — real tasks instead of tutorials, public track record instead of certificates. Outside of that, I'm the kind of person who debugs at 2 AM and still shows up for a 6 AM football match. There's no separating the two.
 
 ---
 
 ### 🛠️ tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,figma,git,github,javascript,html,css,cpp,python,leetcode,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,figma,git,github,javascript,html,css&theme=dark" />
 </div>
 
 ---
@@ -36,19 +21,12 @@ Lately, I’ve been teaching juniors that `git rebase` is actually a force for g
 ### 📊 github stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayyushrk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyushrk&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayyushrk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyushrk&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushrk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
-</div>
-
----
-
-### 🏆 Trophy Case
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayyushrk&theme=tokyonight&no-frame=true&row=1&column=6" alt="Ayush's Trophies" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushrk&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
 ---
@@ -56,27 +34,27 @@ Lately, I’ve been teaching juniors that `git rebase` is actually a force for g
 ### 🐍 contribution snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ayyushrk/Ayyushrk/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
-<br>
-<sub><i>the snake eats the contributions; refresh your repo to see it grow.</i></sub>
+<img src="https://raw.githubusercontent.com/ayyushrk/ayyushrk/output/github-contribution-grid-snake.svg" />
 </div>
+
+
 
 ---
 
 ### 📈 activity graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyushrk&theme=tokyonight&hide_border=true&area=true&color=61DAFB" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyushrk&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
 
 ### ⚡ currently
 
-- 🎯 Building complex data cards and validators for **µFIFA 2026**
-- 🐙 Mentoring the next generation in our 3-day virtual **Git Workshop**
-- 🧠 Chipping away at my [LeetCode](https://leetcode.com/u/AyushRkumar) streak—one challenge a day.
-- ⚽ Analyzing football tactics through the same lens of discipline required for a clean commit history.
+- 🎯 Building player cards and validators for **µFIFA 2026**
+- 🐙 Running a 3-day virtual **Git & GitHub workshop** for beginners
+- 🧠 Chipping away at [LeetCode](https://leetcode.com/u/AyushRkumar) — one problem a day, streak status: *ambitious*
+- ⚽ Arguing that football tactics and clean commit history require the exact same discipline
 
 ---
 
@@ -84,12 +62,9 @@ Lately, I’ve been teaching juniors that `git rebase` is actually a force for g
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayyushrk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AyushRkumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.link)
 
 </div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ayyushrk&style=for-the-badge&color=2C5364" />
-</div>
+ fix all needed, Add new things eye ctachy things..... to this
