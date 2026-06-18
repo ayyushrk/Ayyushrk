@@ -31,12 +31,10 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 
 ---
 
-### 🏆 trophy case
-
+### 🏆 Trophy Case
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayyushrk&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayyushrk&theme=tokyonight&no-frame=true&row=1&column=6" alt="Ayush's Trophies" />
 </div>
-
 ---
 
 ### 🐍 contribution snake
