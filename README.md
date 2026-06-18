@@ -30,7 +30,7 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 </div>
 
 
-![](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/divider.svg)
+![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/divider.svg)
 
 ---
 
@@ -74,4 +74,4 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
   <sub><i>if it works, don't touch it. if it doesn't, blame the merge conflict.</i></sub>
 </div>
 
-![](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/footer.svg)
+![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/footer.svg)
