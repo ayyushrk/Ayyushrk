@@ -29,6 +29,9 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushrk&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
+
+![](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/divider.svg)
+
 ---
 
 ### 🐍 contribution snake
@@ -71,4 +74,4 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
   <sub><i>if it works, don't touch it. if it doesn't, blame the merge conflict.</i></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
+![](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/footer.svg)
