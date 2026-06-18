@@ -67,4 +67,8 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.link)
 
 </div>
- fix all needed, Add new things eye ctachy things..... to this
+<div align="center">
+  <sub><i>if it works, don't touch it. if it doesn't, blame the merge conflict.</i></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
