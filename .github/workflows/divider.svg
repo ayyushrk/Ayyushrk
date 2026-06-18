@@ -1,0 +1,73 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050a08"/>
+      <stop offset="100%" stop-color="#020403"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020403" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#39ff14" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#00ffd5" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#39ff14" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#020403" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip2">
+      <rect x="0" y="0" width="900" height="140" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip2)">
+    <rect x="0" y="0" width="900" height="140" fill="url(#bgGrad2)"/>
+    <rect x="0" y="0" width="900" height="140" fill="none" stroke="#1d3a2c" stroke-width="1.5"/>
+
+    <!-- faint matrix rain, thin slice -->
+    <g font-family="'JetBrains Mono', monospace" font-size="12" fill="#0f5132" opacity="0.4">
+      <text x="60" y="0"><animate attributeName="y" values="-20;160" dur="3s" repeatCount="indefinite"/>01</text>
+      <text x="160" y="0"><animate attributeName="y" values="40;200" dur="3.8s" repeatCount="indefinite"/>10</text>
+      <text x="760" y="0"><animate attributeName="y" values="-30;170" dur="3.4s" repeatCount="indefinite"/>11</text>
+      <text x="830" y="0"><animate attributeName="y" values="20;190" dur="4.1s" repeatCount="indefinite"/>00</text>
+    </g>
+
+    <!-- animated scanning line sweep across the divider -->
+    <rect x="0" y="68" width="900" height="2" fill="url(#lineGrad)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- center bracket text -->
+    <g filter="url(#glow2)" font-family="'JetBrains Mono', monospace" text-anchor="middle">
+      <text x="450" y="60" font-size="22" font-weight="700" fill="#39ff14">
+        &lt;/&gt; keep scrolling, it gets better
+      </text>
+      <text x="450" y="95" font-size="14" fill="#5fae8c">
+        loading next section
+        <tspan fill="#39ff14">
+          .
+          <animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="0s" repeatCount="indefinite"/>
+        </tspan>
+        <tspan fill="#39ff14">
+          .
+          <animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="0.2s" repeatCount="indefinite"/>
+        </tspan>
+        <tspan fill="#39ff14">
+          .
+          <animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="0.4s" repeatCount="indefinite"/>
+        </tspan>
+      </text>
+    </g>
+
+    <!-- corner brackets -->
+    <g stroke="#1d5c3f" stroke-width="1.4" fill="none" opacity="0.8">
+      <path d="M 20 20 L 20 35 L 35 35"/>
+      <path d="M 880 20 L 880 35 L 865 35"/>
+      <path d="M 20 120 L 20 105 L 35 105"/>
+      <path d="M 880 120 L 880 105 L 865 105"/>
+    </g>
+  </g>
+</svg>
