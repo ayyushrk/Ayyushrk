@@ -16,6 +16,14 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 
 ---
 
+### 💻 what my terminal looks like
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=39FF14&background=0D1117FF&center=true&vCenter=true&width=600&height=140&lines=%24+git+commit+-m+%22fix%3A+actually+fix+it+this+time%22;%24+git+push+origin+main;Resolving+deltas%3A+100%25+(47%2F47)%2C+done.;%24+npm+run+dev;%E2%9C%93+ready+in+312ms" />
+</div>
+
+---
+
 ### 🛠️ tech stack
 
 <div align="center">
@@ -41,6 +49,24 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ayyushrk&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 🐍 contribution snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ayyushrk/ayyushrk/output/github-contribution-grid-snake.svg" />
+</div>
+
+<p align="center"><sub>this one's genuinely rare — your commit graph turns into a snake that eats its own squares. setup steps are below.</sub></p>
+
+---
+
+### 📈 activity graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyushrk&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
@@ -71,3 +97,5 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 <div align="center">
 <sub>if it works, don't touch it. if it doesn't, blame the merge conflict.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
