@@ -1,11 +1,10 @@
+![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/hero.svg)
+
+---
 <p align="center">
   <img src="./.github/workflows/Frame 57.png" alt="AYUSHRK Heatmap" width="100%" />
 </p>
 ---
-![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/hero.svg)
-
----
-
 ### 🧩 about me
 
 I move between code and design without really switching gears — React in one tab, Figma in the next. Currently **Design Lead** at NSSCE and **Joint Secretary** at STACS, and lately spending evenings teaching juniors that `git rebase` isn't actually trying to ruin their lives.
