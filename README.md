@@ -4,6 +4,7 @@
 <p align="center">
   <img src="./.github/workflows/Frame 57.png" alt="AYUSHRK Heatmap" width="100%" />
 </p>
+
 ---
 ### 🧩 about me
 
