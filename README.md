@@ -57,14 +57,7 @@ I came up through µLearn's **µFIFA** program — real tasks instead of tutoria
 
 ---
 
-### ⚡ currently
 
-- 🎯 Building player cards and validators for **µFIFA 2026**
-- 🐙 Running a 3-day virtual **Git & GitHub workshop** for beginners
-- 🧠 Chipping away at [LeetCode](https://leetcode.com/u/AyushRkumar) — one problem a day, streak status: *ambitious*
-- ⚽ Arguing that football tactics and clean commit history require the exact same discipline
-
----
 
 ### 📫 reach me
 
