@@ -8,7 +8,7 @@
 ---
 ### 🧩 about me
 
-I move between code and design without really switching gears — React in one tab, Figma in the next. Currently **Design Lead** at NSSCE and **Joint Secretary** at STACS, and lately spending evenings teaching juniors that `git rebase` isn't actually trying to ruin their lives.
+I move between code and design without really switching gears — React in one tab, Figma in the next. Currently **Design Lead** at ACM NSSCE and **Joint Secretary** at STACS in 2025-26, and lately spending evenings teaching juniors that `git rebase` isn't actually trying to ruin their lives.
 
 I came up through µLearn's **µFIFA** program — real tasks instead of tutorials, public track record instead of certificates. Outside of that, I'm the kind of person who debugs at 2 AM and still shows up for a 6 AM football match. There's no separating the two.
 
