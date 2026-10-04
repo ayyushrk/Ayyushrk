@@ -25,9 +25,7 @@
   <text x="30" y="100" clip-path="url(#c1)"><tspan fill="#7ee787">ayyush@nssce</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#d2a8ff">whoami</tspan></text>
   <!-- line 2 -->
   <text x="30" y="134" clip-path="url(#c2)" fill="#c9d1d9">designer × developer × tinkerer</text>
-  <!-- line 3 -->
-  <text x="30" y="168" clip-path="url(#c3)"><tspan fill="#7ee787">ayyush@nssce</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#d2a8ff">cat</tspan><tspan fill="#c9d1d9"> roles.json</tspan></text>
- 
+
   <!-- line 5 -->
   <text x="30" y="236" clip-path="url(#c5)"><tspan fill="#7ee787">ayyush@nssce</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#d2a8ff">python</tspan><tspan fill="#c9d1d9"> train.py --epochs </tspan><tspan fill="#ffa657">inf</tspan></text>
   <!-- line 6 -->
