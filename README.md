@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7ee787&height=220&section=header&text=AYUSHRK&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%24%20design%20%7C%20code%20%7C%20train%20%7C%20repeat&descSize=20&descAlignY=60" width="100%" />
+<img src="https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/header.svg" alt="header" width="100%" />
 
 <a href="https://github.com/ayyushrk">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7EE787&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+ayyushrk.exe...;%3E+loading+weights%3A+react%2C+node%2C+figma...;%3E+Design+Lead+%40+ACM+NSSCE;%3E+Joint+Secretary+%40+STACS+(2025-26);%3E+status%3A+training+%E2%88%9E+epochs" alt="typing" />
@@ -135,6 +135,6 @@ loss
 $ echo "if it works, don't touch it. if it doesn't, blame the merge conflict."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ee787,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/footer.svg" alt="footer" width="100%" />
 
 </div>
