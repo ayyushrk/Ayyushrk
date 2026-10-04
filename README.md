@@ -1,75 +1,140 @@
-![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/hero.svg)
-
----
-<p align="center">
-  <img src="./.github/workflows/Frame 57.png" alt="AYUSHRK Heatmap" width="100%" />
-</p>
-
----
-### 🧩 about me
-
-I move between code and design without really switching gears — React in one tab, Figma in the next. Currently **Design Lead** at ACM NSSCE and **Joint Secretary** at STACS in 2025-26, and lately spending evenings teaching juniors that `git rebase` isn't actually trying to ruin their lives.
-
-I came up through µLearn's **µFIFA** program — real tasks instead of tutorials, public track record instead of certificates. Outside of that, I'm the kind of person who debugs at 2 AM and still shows up for a 6 AM football match. There's no separating the two.
-
----
-
-### 🛠️ tech stack
-
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,figma,git,github,javascript,html,css&theme=dark" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7ee787&height=220&section=header&text=AYUSHRK&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%24%20design%20%7C%20code%20%7C%20train%20%7C%20repeat&descSize=20&descAlignY=60" width="100%" />
+
+<a href="https://github.com/ayyushrk">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7EE787&center=true&vCenter=true&width=720&height=45&lines=%3E+initializing+ayyushrk.exe...;%3E+loading+weights%3A+react%2C+node%2C+figma...;%3E+Design+Lead+%40+ACM+NSSCE;%3E+Joint+Secretary+%40+STACS+(2025-26);%3E+status%3A+training+%E2%88%9E+epochs" alt="typing" />
+</a>
+
+<br/>
+
+<img src="./.github/workflows/terminal.svg" alt="terminal" width="100%" />
+
 </div>
 
 ---
 
-### 📊 github stats
+### `$ neofetch --face`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayyushrk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyushrk&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushrk&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<img src="./.github/workflows/profile-card.svg" alt="profile card" width="100%" />
 </div>
 
 ---
 
-![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/divider.svg)
+### `model.py`
+
+```python
+import torch.nn as nn
+
+class Ayyush(nn.Module):
+    """Sits between code and design. No context switch penalty."""
+
+    def __init__(self):
+        super().__init__()
+        self.frontend  = ["React", "JavaScript", "HTML", "CSS"]
+        self.backend   = ["Node.js", "Express", "MongoDB", "MySQL"]
+        self.design    = ["Figma", "Design Systems", "Prototyping"]
+        self.learning  = ["PyTorch", "scikit-learn", "LLM apps"]   # ← edit to match reality
+        self.optimizer = "coffee + football"
+        self.dataset   = "real tasks, not tutorials"               # µFIFA
+
+    def forward(self, idea):
+        ui     = self.design_it(idea)       # Figma tab
+        app    = self.build_it(ui)          # React tab
+        return self.ship_it(app)            # public track record > certificates
+
+    def debug(self):
+        while True:
+            self.fix_bug(time="02:00")
+            self.play_football(time="06:00")   # never skipped
+```
 
 ---
 
-### 🐍 contribution snake
+### `$ cat requirements.txt`
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,figma,git,github,js,html,css,python,pytorch,linux,vscode&theme=dark&perline=15" />
+</div>
+
+---
+
+### `$ htop` &nbsp;·&nbsp; training metrics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayyushrk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=79c0ff&ring_color=7ee787&border_radius=10&custom_title=ayyushrk%20%7C%20model%20metrics" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyushrk&hide_border=true&background=0d1117&stroke=30363d&ring=7ee787&fire=ffa657&currStreakLabel=7ee787&sideLabels=79c0ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=10" width="49%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushrk&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&border_radius=10&custom_title=feature%20importance%20(languages)" width="60%" />
+</div>
+
+---
+
+### `$ tail -f loss.log`
+
+```text
+loss
+ │
+ │ ▇
+ │ ▇▆
+ │ ▇▇▅
+ │ ▇▇▆▄
+ │ ▇▇▇▅▃▃
+ │ ▇▇▇▆▅▄▃▂▂▁▁▁▁▁▁▁▁▁
+ └──────────────────────────► commits
+   bugs ↓   rebase fear ↓   2 AM fixes ↑   football ↑
+```
+
+---
+
+### `$ ./neural_net.sh`
+
+```text
+  INPUT            HIDDEN                OUTPUT
+
+  [idea]  ──┬──►  (figma) ──┬──►  (react)  ──┐
+            │               │                ├──►  [ shipped ✓ ]
+  [coffee] ─┼──►  (node)  ──┼──►  (mongo)  ──┘
+            │               │
+  [deadline]┴──►  (git)  ───┴──►  (deploy)
+```
+
+---
+
+### `$ snake --eat contributions`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ayyushrk/ayyushrk/output/github-contribution-grid-snake.svg" />
 </div>
 
+---
 
+### `$ plot activity.png`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyushrk&bg_color=0d1117&color=7ee787&line=79c0ff&point=ffffff&area_color=7ee787&area=true&hide_border=true&title_color=7ee787" width="100%" />
+</div>
 
 ---
 
-### 📈 activity graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyushrk&theme=react-dark&hide_border=true&area=true" />
-</div>
-
----
-
-
-
-### 📫 reach me
+### `$ ./contact.sh`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1117&color=30363d)](https://linkedin.com/in/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff7eb6&labelColor=0d1117&color=30363d)](https://instagram.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7ee787&labelColor=0d1117&color=30363d)](https://your-portfolio.link)
+
+<br/>
+
+```bash
+$ echo "if it works, don't touch it. if it doesn't, blame the merge conflict."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ee787,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
-<div align="center">
-  <sub><i>if it works, don't touch it. if it doesn't, blame the merge conflict.</i></sub>
-</div>
-
-![hero](https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/.github/workflows/footer.svg)
