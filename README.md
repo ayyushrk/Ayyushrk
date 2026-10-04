@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="./.github/workflows/terminal.svg" alt="terminal" width="100%" />
+<img src="https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/terminal.svg" alt="terminal" width="100%" />
 
 </div>
 
@@ -18,7 +18,7 @@
 ### `$ neofetch --face`
 
 <div align="center">
-<img src="./.github/workflows/profile-card.svg" alt="profile card" width="100%" />
+<img src="https://raw.githubusercontent.com/ayyushrk/Ayyushrk/main/profile-card.svg" alt="profile card" width="100%" />
 </div>
 
 ---
