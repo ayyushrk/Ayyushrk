@@ -186,7 +186,7 @@ loss
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1117&color=30363d)](https://linkedin.com/in/your-handle)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff7eb6&labelColor=0d1117&color=30363d)](https://instagram.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7ee787&labelColor=0d1117&color=30363d)](https://your-portfolio.link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7ee787&labelColor=0d1117&color=30363d)](https://ayushrkumar.vercel.app)
 
 <br/>
 
